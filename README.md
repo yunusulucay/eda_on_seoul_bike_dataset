@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/-Python-blue"><img src="https://img.shields.io/badge/-Dask-grey"><img src="https://img.shields.io/badge/-EDA-red">
+<img src="https://img.shields.io/badge/-Python-blue">  <img src="https://img.shields.io/badge/-Dask-grey">  <img src="https://img.shields.io/badge/-EDA-red">
 
 Exploratory data analysis on Seoul Bike dataset using Dask. The Data used include trip duration, trip distance, pickup-dropoff latitude and longitude, temperature, precipitation, wind speed, humidity, solar radiation, snowfall, ground temperature and 1-hour average dust concentration.
 Goal is to predict the trip duration. But we only focus on Analyzing the data and working with Dask.
